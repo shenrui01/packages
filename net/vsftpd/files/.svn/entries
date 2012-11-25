@@ -1,19 +1,15 @@
 10
 
 dir
-34325
-svn://svn.openwrt.org/openwrt/packages/net/vsftpd/files
-svn://svn.openwrt.org/openwrt
+556
+svn://svn.openwrt.org.cn/dreambox/packages_10.03.1/net/vsftpd/files
+svn://svn.openwrt.org.cn/dreambox
 
 
 
-2011-11-09T23:29:29.844710Z
-28907
-nico
-
-
-
-
+2011-09-25T07:00:03.116570Z
+115
+flyzjhz@gmail.com
 
 
 
@@ -24,7 +20,11 @@ nico
 
 
 
-3c298f89-4303-0410-b956-a3cf2f4a3e73
+
+
+
+
+74e81aba-36f0-4891-8cfb-1815f9025a0c
 
 vsftpd.init
 file
@@ -32,12 +32,11 @@ file
 
 
 
-2012-11-13T04:14:24.948204Z
-53c93cc5d5440915512a166d70923751
-2011-11-09T23:29:29.844710Z
-28907
-nico
-has-props
+2012-11-08T15:03:23.000000Z
+168b0175c68dc1f63998999b5045c690
+2011-09-25T07:00:03.116570Z
+115
+flyzjhz@gmail.com
 
 
 
@@ -58,7 +57,8 @@ has-props
 
 
 
-195
+
+3629
 
 vsftpd.conf
 file
@@ -66,12 +66,12 @@ file
 
 
 
-2012-11-13T04:14:24.948204Z
+2012-11-08T15:03:23.000000Z
 3ee8730456f23f9f15707d34db321175
-2009-04-17T15:22:00.575847Z
-15247
-nico
-has-props
+2011-09-15T14:06:21.195238Z
+1
+lintel.huang@gmail.com
+
 
 
 
