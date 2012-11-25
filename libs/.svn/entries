@@ -1,0 +1,679 @@
+10
+
+dir
+34305
+svn://svn.openwrt.org/openwrt/packages/libs
+svn://svn.openwrt.org/openwrt
+
+
+
+2012-11-01T01:24:10.384995Z
+34049
+jow
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3c298f89-4303-0410-b956-a3cf2f4a3e73
+
+libsdl_sound
+dir
+
+libfreenect
+dir
+
+ucl
+dir
+
+freetype
+dir
+
+libosip2
+dir
+
+jpeg
+dir
+
+matrixssl
+dir
+
+libimobiledevice
+dir
+
+libamsel
+dir
+
+wxbase
+dir
+
+cgilib
+dir
+
+wt
+dir
+
+axtls
+dir
+
+libdaq
+dir
+
+neon
+dir
+
+polarssl
+dir
+
+libinklevel
+dir
+
+libid3tag
+dir
+
+libsigc++
+dir
+
+confuse
+dir
+
+libpam
+dir
+
+glibmm
+dir
+
+libowfat
+dir
+
+libevent
+dir
+
+libsynce
+dir
+
+credis
+dir
+
+tcp_wrappers
+dir
+
+sctp
+dir
+
+gnutls
+dir
+
+newt
+dir
+
+libdvbpsi
+dir
+
+argp-standalone
+dir
+
+ftplib
+dir
+
+libnet-1.1.x
+dir
+
+libmicroxml
+dir
+
+libassuan
+dir
+
+libexif
+dir
+
+libnids
+dir
+
+libdbi
+dir
+
+tiff
+dir
+
+xmpp4r
+dir
+
+libffi
+dir
+
+libvorbis
+dir
+
+tokyocabinet
+dir
+
+libnfc
+dir
+
+libmbus
+dir
+
+libcli
+dir
+
+glib2
+dir
+
+nmeap
+dir
+
+libmcrypt
+dir
+
+libmpdclient
+dir
+
+libmpd
+dir
+
+fribidi
+dir
+
+libgphoto2
+dir
+
+libsdl
+dir
+
+unixodbc
+dir
+
+libusb-1.0
+dir
+
+libzstream
+dir
+
+mxml
+dir
+
+libvorbisidec
+dir
+
+vips
+dir
+
+libmpcdec
+dir
+
+eventlog
+dir
+
+sqlite2
+dir
+
+sqlite3
+dir
+
+libptmalloc3
+dir
+
+libatomicops
+dir
+
+xmlrpc-c
+dir
+
+rrdtool-1.0.x
+dir
+
+libmad
+dir
+
+libshout
+dir
+
+apr-util
+dir
+
+libaio
+dir
+
+liblo
+dir
+
+clinkc
+dir
+
+postgresql
+dir
+
+cyrus-sasl
+dir
+
+libdlna
+dir
+
+curl
+dir
+
+re
+dir
+
+libxapian
+dir
+
+libmikmod
+dir
+
+bluez-libs
+dir
+
+howl
+dir
+
+libcunit
+dir
+
+clearsilver
+dir
+
+glib
+dir
+
+libsdl_mixer
+dir
+
+leptonica
+dir
+
+libsrtp
+dir
+
+libIDL2
+dir
+
+libsml
+dir
+
+ortp
+dir
+
+libdmapsharing
+dir
+
+speex
+dir
+
+libsamplerate
+dir
+
+shflags
+dir
+
+libaudiofile
+dir
+
+libyaml
+dir
+
+iksemel
+dir
+
+libdaemon
+dir
+
+libpar2
+dir
+
+opal
+dir
+
+giflib
+dir
+
+libgcrypt
+dir
+
+libdvdread
+dir
+
+openh323
+dir
+
+libnetfilter-log
+dir
+
+libipfix
+dir
+
+fcgi
+dir
+
+dbus-glib
+dir
+
+gdbm
+dir
+
+jansson
+dir
+
+nacl
+dir
+
+libart
+dir
+
+libxslt
+dir
+
+classpath
+dir
+
+libplist
+dir
+
+rem
+dir
+
+gsl
+dir
+
+librsync
+dir
+
+gsm
+dir
+
+phidget21
+dir
+
+radlib
+dir
+
+ossp-js
+dir
+
+protobuf
+dir
+
+libogg
+dir
+
+libtwin
+dir
+
+libdirectfb
+dir
+
+ptlib
+dir
+
+libsndfile
+dir
+
+firewall-mod-save
+dir
+
+file
+dir
+
+libusb
+dir
+
+expat
+dir
+
+apr
+dir
+
+slang2
+dir
+
+radiusclient-ng
+dir
+
+pcre
+dir
+
+libzip
+dir
+
+libcroco
+dir
+
+libconfig
+dir
+
+libelf
+dir
+
+libfreecwmp
+dir
+
+zaptel
+dir
+
+db47
+dir
+
+libspe2
+dir
+
+pthsem
+dir
+
+libmpeg2
+dir
+
+libol
+dir
+
+libidn
+dir
+
+openldap
+dir
+
+lzo
+dir
+
+libnetfilter-queue
+dir
+
+rblibtorrent
+dir
+
+libxml2
+dir
+
+libpfm
+dir
+
+libpng
+dir
+
+libpthread-stubs
+dir
+
+pwlib
+dir
+
+faad2
+dir
+
+libgssapi
+dir
+
+libsoup
+dir
+
+libmodbus
+dir
+
+protobuf-c
+dir
+
+libdnet
+dir
+
+gmp
+dir
+
+opencdk
+dir
+
+alsa-lib
+dir
+
+boost
+dir
+
+elfutils
+dir
+
+libnfsidmap
+dir
+
+libcap
+dir
+
+libgpg-error
+dir
+
+libv4l
+dir
+
+libcrypto++
+dir
+
+gpgme
+dir
+
+poco
+dir
+
+serdisplib
+dir
+
+liboping
+dir
+
+libvncserver
+dir
+
+libmicrohttpd
+dir
+
+mysql
+dir
+
+id3lib
+dir
+
+libfreefare
+dir
+
+libssh2
+dir
+
+aalib
+dir
+
+libtheora
+dir
+
+libupnp
+dir
+
+liboil
+dir
+
+c-ares
+dir
+
+libftdi
+dir
+
+libnet-1.0.x
+dir
+
+argtable
+dir
+
+libmms
+dir
+
+librpcsecgss
+dir
+
+libtorrent
+dir
+
+libao
+dir
+
+libnatpmp
+dir
+
+ustl
+dir
+
+avahi
+dir
+
+fftw3
+dir
+
+gd
+dir
+
+st2205tool
+dir
+
+ezxml
+dir
+
+ldns
+dir
+
+orbit2
+dir
+
+taglib
+dir
+
+gperf
+dir
+
+intltool
+dir
+
+zaptel-1.4.x
+dir
+
+flac
+dir
+
+spandsp
+dir
+
+check
+dir
+
+libtasn1
+dir
+
+libcelt
+dir
+
+keynote
+dir
+

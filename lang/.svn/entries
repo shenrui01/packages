@@ -1,0 +1,283 @@
+10
+
+dir
+34305
+svn://svn.openwrt.org/openwrt/packages/lang
+svn://svn.openwrt.org/openwrt
+
+
+
+2012-10-24T00:03:13.724101Z
+33902
+swalker
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3c298f89-4303-0410-b956-a3cf2f4a3e73
+
+sqlite3-ruby
+dir
+
+python-rsfile
+dir
+
+jamvm
+dir
+
+php4
+dir
+
+python2-chardet
+dir
+
+xapian-bindings
+dir
+
+python-pyosc
+dir
+
+php-pear
+dir
+
+php5
+dir
+
+pymysql
+dir
+
+python
+dir
+
+ruby
+dir
+
+logilab-astng
+dir
+
+python-flup
+dir
+
+jsonpath
+dir
+
+python-json
+dir
+
+pybluez
+dir
+
+pyxdg
+dir
+
+python-pydaemon
+dir
+
+perl-html-parser
+dir
+
+python-crypto
+dir
+
+php-pear-db
+dir
+
+4th
+dir
+
+perl-uri
+dir
+
+lsqlite3
+dir
+
+egenix-mx
+dir
+
+luasoap
+dir
+
+sigscheme
+dir
+
+kid
+dir
+
+erlang
+dir
+
+gst-python
+dir
+
+distribute
+dir
+
+telepathy-python
+dir
+
+perl-test-harness
+dir
+
+tcl
+dir
+
+twisted
+dir
+
+luaprofiler
+dir
+
+pygobject
+dir
+
+mako
+dir
+
+yapsnmp
+dir
+
+pyserial
+dir
+
+ipython
+dir
+
+perl-dbi
+dir
+
+perl-html-tree
+dir
+
+python-mimms
+dir
+
+perl
+dir
+
+pyusb
+dir
+
+python-sip
+dir
+
+luasec
+dir
+
+python-dbus
+dir
+
+perl-compress-bzip2
+dir
+
+arm
+dir
+
+perl-lockfile-simple
+dir
+
+psycopg
+dir
+
+python-curl
+dir
+
+perl-www
+dir
+
+luafilesystem
+dir
+
+luasocket
+dir
+
+python-cjson
+dir
+
+python-imaging-library
+dir
+
+logilab-common
+dir
+
+pyrrd
+dir
+
+python-eeml
+dir
+
+urbi
+dir
+
+luasql
+dir
+
+python-ifconfig
+dir
+
+luaposix
+dir
+
+cython
+dir
+
+python-webpy
+dir
+
+numpy
+dir
+
+pysqlite
+dir
+
+pyyaml
+dir
+
+perl-net-telnet
+dir
+
+php-pear-xmlrpc
+dir
+
+python-django
+dir
+
+luaexpat
+dir
+
+pyclips
+dir
+
+simplejson
+dir
+
+perl-www-mechanize
+dir
+
+perl-www-curl
+dir
+
+eggdrop
+dir
+
+perl-html-tagset
+dir
+
+pyevent
+dir
+
+pypcap
+dir
+
+pyopenssl
+dir
+
