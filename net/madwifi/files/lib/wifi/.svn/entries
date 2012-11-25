@@ -1,7 +1,7 @@
 10
 
 dir
-34305
+34325
 svn://svn.openwrt.org/openwrt/packages/net/madwifi/files/lib/wifi
 svn://svn.openwrt.org/openwrt
 
@@ -25,40 +25,6 @@ nbd
 
 
 3c298f89-4303-0410-b956-a3cf2f4a3e73
-
-madwifi.sh
-file
-
-
-
-
-2012-11-13T04:14:37.500203Z
-bfce889b21e06fc0d7d4624d386ae73e
-2012-03-27T13:21:39.905233Z
-31082
-nbd
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-12531
 
 madwifi_countrycodes.txt
 file
@@ -93,4 +59,38 @@ nbd
 
 
 1641
+
+madwifi.sh
+file
+
+
+
+
+2012-11-13T04:14:37.500203Z
+bfce889b21e06fc0d7d4624d386ae73e
+2012-03-27T13:21:39.905233Z
+31082
+nbd
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12531
 

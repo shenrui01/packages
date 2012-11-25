@@ -1,15 +1,15 @@
 10
 
 dir
-34305
+34325
 svn://svn.openwrt.org/openwrt/packages/net
 svn://svn.openwrt.org/openwrt
 
 
 
-2012-11-21T19:41:12.721605Z
-34289
-jow
+2012-11-24T11:03:01.187622Z
+34319
+jogo
 
 
 
@@ -26,46 +26,13 @@ jow
 
 3c298f89-4303-0410-b956-a3cf2f4a3e73
 
-serialoverip
+l2tpv3tun
 dir
 
-httptunnel
+ser2net
 dir
 
-socat
-dir
-
-dsniff
-dir
-
-seeks
-dir
-
-openser
-dir
-
-sscep
-dir
-
-ddns-scripts
-dir
-
-nuttcp
-dir
-
-atftp
-dir
-
-dhcp
-dir
-
-etherwake
-dir
-
-dircproxy
-dir
-
-ntripserver
+yafc
 dir
 
 linuxigd
@@ -74,409 +41,58 @@ dir
 remotefs
 dir
 
-reaver
+net-tools
 dir
 
-ptunnel
-dir
-
-maradns
-dir
-
-parprouted
-dir
-
-isakmpd
-dir
-
-bmon
-dir
-
-raddump
-dir
-
-apcupsd
-dir
-
-opensips
-dir
-
-wol
-dir
-
-smcroute
-dir
-
-polipo
-dir
-
-nbd
-dir
-
-amule
-dir
-
-uanytun
-dir
-
-mrtg
-dir
-
-ncftp
-dir
-
-ucarp
-dir
-
-httping
-dir
-
-uftp
-dir
-
-rssh
-dir
-
-yaddns
-dir
-
-openvpn
-dir
-
-lft
-dir
-
-nzbgetweb
-dir
-
-opennhrp
-dir
-
-nfs-server
-dir
-
-vtun
-dir
-
-kismet
-dir
-
-reaim
-dir
-
-rsync
-dir
-
-natpmp
-dir
-
-miniupnpc
-dir
-
-mtr
-dir
-
-radsecproxy
-dir
-
-miniupnpd
-dir
-
-bitlbee
-dir
-
-faifa
-dir
-
-memcached
-dir
-
-vpnc
-dir
-
-veth
-dir
-
-ngircd
-dir
-
-madwimax
-dir
-
-mac-to-devinfo
-dir
-
-kamailio3
-dir
-
-crda
-dir
-
-chillispot
-dir
-
-openconnect
-dir
-
-fprobe
-dir
-
-restund
-dir
-
-squid
-dir
-
-autossh
-dir
-
-oidentd
-dir
-
-ez-ipupdate
-dir
-
-ssltunnel
-dir
-
-stunnel
-dir
-
-hping3
-dir
-
-openrrcp
-dir
-
-htpdate
-dir
-
-xinetd
-dir
-
-cbtt
-dir
-
-vrrpd
-dir
-
-asterisk-chan-sccp-b
-dir
-
-yate
-dir
-
-batman
-dir
-
-icmptx
-dir
-
-babel
-dir
-
-imspector
-dir
-
-vsftpd
-dir
-
-opendchub
-dir
-
-iodine
-dir
-
-coova-chilli
-dir
-
-xsupplicant
-dir
-
-batman-adv
-dir
-
-xl2tpd
-dir
-
-rtorrent
-dir
-
-apache
-dir
-
-baresip
-dir
-
-ditg
-dir
-
-ipkungfu
-dir
-
-irssi
-dir
-
-ipsec-tools
-dir
-
-net-snmp
-dir
-
-udp-broadcast-relay
-dir
-
-netstat-nat
-dir
-
-dsl-qos-queue
-dir
-
-ntpd
-dir
-
-softflowd
-dir
-
-privoxy
-dir
-
-nodogsplash
-dir
-
-cifs-utils
-dir
-
-yafc
-dir
-
-tig
-dir
-
-tftp-hpa
-dir
-
-sslstrip
-dir
-
-click
-dir
-
-rinetd
-dir
-
-bwping
+nprobe
 dir
 
 scdp
 dir
 
-transmission
-dir
-
-sslcat
-dir
-
-mii-tool
-dir
-
-matrixtunnel
-dir
-
-horst
-dir
-
-airpwn
-dir
-
-fwknop
-dir
-
-etherpuppet
-dir
-
-apf
-dir
-
-cups
-dir
-
-ipupdate
-dir
-
-redsocks
-dir
-
-leafnode
-dir
-
-darkstat
-dir
-
-iptables-snmp
-dir
-
-gesftpserver
-dir
-
-e169-stats
-dir
-
-uob-nomad
-dir
-
-ser2net
-dir
-
-pyload
-dir
-
-nzbget
-dir
-
-znc
-dir
-
 dudders
 dir
 
-ifstat
-dir
-
-asterisk-1.8.x
+karma
 dir
 
 rp-l2tp
 dir
 
-smap
+opensips
+dir
+
+smcroute
+dir
+
+corkscrew
 dir
 
 netperf
 dir
 
-uhub
+radsecproxy
 dir
 
-djbdns
+deluge
 dir
 
-strongswan
+cutter
 dir
 
-lftp
+rrs
 dir
 
-siit
+socat
 dir
 
-keepalived
+seeks
 dir
 
-freeradius2
+cups
 dir
 
-ngrep
+openconnect
 dir
 
 umurmur
@@ -485,31 +101,130 @@ dir
 dns2tcp
 dir
 
-appweb
+sscep
 dir
 
-bitchx
+netcat
 dir
 
-chaosvpn
+atftp
+dir
+
+l2tpns
+dir
+
+git
+dir
+
+mercurial
 dir
 
 frickin
 dir
 
-irssi-glib1
+ez-ipupdate
+dir
+
+opennhrp
+dir
+
+mini_snmpd
+dir
+
+smap
+dir
+
+mutella
+dir
+
+uhub
+dir
+
+amule
+dir
+
+tor
+dir
+
+flow-tools
+dir
+
+lispmob
+dir
+
+lftp
+dir
+
+peerguardian
+dir
+
+madwimax
+dir
+
+ucspi-tcp
+dir
+
+siit
+dir
+
+ucarp
+dir
+
+ncftp
+dir
+
+xsupplicant
+dir
+
+smtptrapd
+dir
+
+openslp
+dir
+
+portmap
+dir
+
+jtg
+dir
+
+iptraf
+dir
+
+tor-alpha
+dir
+
+openrrcp
 dir
 
 nmap
 dir
 
-vgp
+vpnc-scripts
 dir
 
 nstx
 dir
 
-mutella
+reaim
+dir
+
+rsync
+dir
+
+igmpproxy
+dir
+
+subversion
+dir
+
+ipsec-tools
+dir
+
+cups-bjnp
+dir
+
+netstat-nat
 dir
 
 krb5
@@ -518,484 +233,13 @@ dir
 wing
 dir
 
-lispmob
-dir
-
-knock
-dir
-
-snort
-dir
-
-nfs-kernel-server
-dir
-
-curlftpfs
-dir
-
-aprx
-dir
-
-bind
-dir
-
-vnstat
-dir
-
-bing
-dir
-
-openslp
-dir
-
-vpzone
-dir
-
-portmap
-dir
-
-tinyproxy
-dir
-
-openntpd
-dir
-
-scanlogd
-dir
-
-ntripclient
-dir
-
-mini_snmpd
-dir
-
-psybnc
-dir
-
-wprobe
-dir
-
-ntpclient
-dir
-
-rp-pppoe
-dir
-
-quicktun
-dir
-
-fping
-dir
-
-tctool
-dir
-
-flow-tools
-dir
-
-redir
-dir
-
-ekg
-dir
-
-dhcp-forwarder
-dir
-
-arpwatch
-dir
-
-bmx6
-dir
-
-netio
-dir
-
-vncrepeater
-dir
-
-ethtool
-dir
-
-nocatsplash
-dir
-
-fprobe-ulog
-dir
-
-pen
-dir
-
-olsrd
-dir
-
-dmapd
-dir
-
-arpd
-dir
-
-pptpd
-dir
-
-siproxd
-dir
-
-stun
-dir
-
-sipsak
-dir
-
-wknock
-dir
-
-subversion
-dir
-
-pyrit
-dir
-
-udpxy
-dir
-
-ttcp
-dir
-
-ndyndns
-dir
-
-crowdcontrol
-dir
-
-aircrack-ng
-dir
-
-pepsal
-dir
-
-elinks
-dir
-
-axel
-dir
-
-bmxd
-dir
-
-gpsd
-dir
-
-mdk3
-dir
-
-ctorrent
-dir
-
-pepperspot
-dir
-
-wrt-radauth
-dir
-
-wget
-dir
-
-rrs
-dir
-
-ptpd
-dir
-
-xtables-addons
-dir
-
-amwall
-dir
-
-ipcad
-dir
-
-openvpn-devel
-dir
-
-usbip
-dir
-
-git
-dir
-
-sshtunnel
-dir
-
-mdnsresponder
-dir
-
-nprobe
-dir
-
-netdiscover
-dir
-
-nocatauth
-dir
-
-qolyester
-dir
-
-nbtscan
-dir
-
-wdiag
-dir
-
-spawn-fcgi
-dir
-
-mvprelay
-dir
-
-multiwan
-dir
-
-snort-wireless
-dir
-
-dansguardian
-dir
-
-wccpd
-dir
-
-tor
-dir
-
-deluge
-dir
-
-snortsam
-dir
-
-cutter
-dir
-
-ettercap
-dir
-
-pdnsd
-dir
-
-netcat
-dir
-
-bird
-dir
-
-l2tpv3tun
-dir
-
-l2tpns
-dir
-
-net-tools
-dir
-
-jtg
-dir
-
-tmsnc
-dir
-
-pcapsipdump
-dir
-
-mgen
-dir
-
-sshfs
-dir
-
-aircrack-ptw
-dir
-
-isc-dhcp
-dir
-
-bridge-utils
-dir
-
-miau
-dir
-
-fakeidentd
-dir
-
-miax
-dir
-
-unfs3
-dir
-
-mini_httpd
-dir
-
-shat
-dir
-
-corkscrew
-dir
-
-daemonlogger
-dir
-
-l7-protocols
-dir
-
-netpipe
-dir
-
-wavemon
-dir
-
-nufw
-dir
-
-lighttpd
-dir
-
-peervpn
-dir
-
-madwifi
-dir
-
-freepops
-dir
-
-mercurial
-dir
-
-iptraf
-dir
-
-aoetools
-dir
-
-l2tpd
-dir
-
-shorewall-core
-dir
-
-hiawatha
-dir
-
-sslsniff
-dir
-
-paris-traceroute
-dir
-
-wput
-dir
-
-slurm
-dir
-
-netatalk
-dir
-
-udpcast
-dir
-
-tsocks
-dir
-
-hsflowd
-dir
-
-cdp
-dir
-
-ucspi-tcp
-dir
-
-wiviz
-dir
-
-sslh
-dir
-
-vnc-reflector
-dir
-
-ulogd
-dir
-
-sipp
-dir
-
-cmdftp
-dir
-
-smtptrapd
-dir
-
-proftpd
-dir
-
-aodv-uu
-dir
-
-weechat
-dir
-
-nginx
-dir
-
-tcptraceroute
-dir
-
-imsnif
-dir
-
-dhcpcd
-dir
-
-tor-alpha
-dir
-
-wifidog
-dir
-
-openswan
-dir
-
-shorewall-lite
-dir
-
-vblade
-dir
-
-tinc
-dir
-
-igmpproxy
-dir
-
-srelay
-dir
-
-live
-dir
-
-cups-bjnp
-dir
-
 mosquitto
 dir
 
-peerguardian
+faifa
+dir
+
+tsocks
 dir
 
 pure-ftpd
@@ -1004,87 +248,843 @@ dir
 transocks
 dir
 
+aprx
+dir
+
+bind
+dir
+
+cmdftp
+dir
+
+ethtool
+dir
+
+bing
+dir
+
+rtorrent
+dir
+
+nodogsplash
+dir
+
+openvpn-devel
+dir
+
+mdnsresponder
+dir
+
+squid
+dir
+
+imsnif
+dir
+
+dhcpcd
+dir
+
+siproxd
+dir
+
+ipkungfu
+dir
+
+vrrpd
+dir
+
+vblade
+dir
+
+asterisk-1.8.x
+dir
+
+srelay
+dir
+
+pepperspot
+dir
+
+net-snmp
+dir
+
+serialoverip
+dir
+
+babel
+dir
+
+etherpuppet
+dir
+
+cdp
+dir
+
+nfs-kernel-server
+dir
+
+p910nd
+dir
+
+bmx6
+dir
+
+ndyndns
+dir
+
+ddns-scripts
+dir
+
+tftp-hpa
+dir
+
+sslstrip
+dir
+
+arpd
+dir
+
+stun
+dir
+
+irssi
+dir
+
+mii-tool
+dir
+
+paris-traceroute
+dir
+
+obfsproxy
+dir
+
+spawn-fcgi
+dir
+
+quagga
+dir
+
+ttcp
+dir
+
+freeradius2
+dir
+
+ipupdate
+dir
+
+darkstat
+dir
+
+leafnode
+dir
+
+redsocks
+dir
+
+etherwake
+dir
+
+dircproxy
+dir
+
+irssi-glib1
+dir
+
+click
+dir
+
+bwm
+dir
+
+nbtscan
+dir
+
+axel
+dir
+
+bmxd
+dir
+
+lsm
+dir
+
+gpsd
+dir
+
+mdk3
+dir
+
+fakeidentd
+dir
+
+horst
+dir
+
+mini_httpd
+dir
+
+chrony
+dir
+
+wget
+dir
+
+ptpd
+dir
+
+dhcp-forwarder
+dir
+
+dsniff
+dir
+
+vnc-reflector
+dir
+
+nuttcp
+dir
+
+chaosvpn
+dir
+
+reaver
+dir
+
+tcptraceroute
+dir
+
+nzbgetweb
+dir
+
+ntripclient
+dir
+
+n2n
+dir
+
+miniupnpc
+dir
+
+polipo
+dir
+
+miniupnpd
+dir
+
+netpipe
+dir
+
+memcached
+dir
+
+kamailio3
+dir
+
+coova-chilli
+dir
+
+ngrep
+dir
+
+wavemon
+dir
+
+vncrepeater
+dir
+
+nocatsplash
+dir
+
+peervpn
+dir
+
+bird
+dir
+
+madwifi
+dir
+
+fprobe-ulog
+dir
+
+yaddns
+dir
+
+mgen
+dir
+
+openntpd
+dir
+
+ssltunnel
+dir
+
+scanlogd
+dir
+
+miau
+dir
+
+kismet
+dir
+
+miax
+dir
+
+natpmp
+dir
+
+shat
+dir
+
+wol
+dir
+
+rp-pppoe
+dir
+
+quicktun
+dir
+
+nbd
+dir
+
+udpcast
+dir
+
+snort
+dir
+
+knock
+dir
+
+imspector
+dir
+
+ngircd
+dir
+
+hsflowd
+dir
+
+opendchub
+dir
+
+xtables-addons
+dir
+
+arpwatch
+dir
+
+fprobe
+dir
+
+proftpd
+dir
+
+nufw
+dir
+
+aodv-uu
+dir
+
+weechat
+dir
+
+aircrack-ng
+dir
+
+lft
+dir
+
+synce-dccm
+dir
+
+hping3
+dir
+
+wifidog
+dir
+
+transmission
+dir
+
+portsentry
+dir
+
+matrixtunnel
+dir
+
+xinetd
+dir
+
+wput
+dir
+
+snort-wireless
+dir
+
+wrt-radauth
+dir
+
+mtr
+dir
+
+batman
+dir
+
+fping
+dir
+
+icmptx
+dir
+
+redir
+dir
+
+vsftpd
+dir
+
+iodine
+dir
+
+softflowd
+dir
+
+sslh
+dir
+
 wshaper
 dir
 
 unbound
 dir
 
-p910nd
+sipp
 dir
 
-uucp
+xl2tpd
+dir
+
+netio
+dir
+
+gesftpserver
 dir
 
 openssh
 dir
 
-synce-dccm
+apache
 dir
 
-bwm
+olsrd
 dir
 
-kamailio
+netdiscover
 dir
 
-portsentry
+dmapd
+dir
+
+pptpd
 dir
 
 haproxy
 dir
 
-vpnc-scripts
+tinc
 dir
 
-lsm
-dir
-
-ntripcaster
+live
 dir
 
 prosody
 dir
 
+ctorrent
+dir
+
+freeswitch
+dir
+
 speedtouch-usb-firmware
 dir
 
-quagga
+httptunnel
 dir
 
-rtpproxy
+pyrit
 dir
 
-rarpd
+udpxy
+dir
+
+uucp
+dir
+
+uob-nomad
 dir
 
 bahamut
 dir
 
+parprouted
+dir
+
+rinetd
+dir
+
+pcapsipdump
+dir
+
 gatling
+dir
+
+bwping
+dir
+
+shorewall-core
+dir
+
+sslcat
+dir
+
+mvprelay
+dir
+
+multiwan
+dir
+
+airpwn
+dir
+
+udp-broadcast-relay
+dir
+
+fwknop
+dir
+
+snortsam
+dir
+
+ettercap
+dir
+
+openser
+dir
+
+ipcad
+dir
+
+usbip
+dir
+
+tig
+dir
+
+ptunnel
+dir
+
+maradns
+dir
+
+pyload
+dir
+
+isakmpd
+dir
+
+nzbget
 dir
 
 btpd
 dir
 
+ifstat
+dir
+
+nfs-server
+dir
+
+isc-dhcp
+dir
+
+wdiag
+dir
+
+shorewall-lite
+dir
+
+raddump
+dir
+
+apcupsd
+dir
+
+wccpd
+dir
+
+uanytun
+dir
+
+djbdns
+dir
+
+apf
+dir
+
+pdnsd
+dir
+
+curlftpfs
+dir
+
+chillispot
+dir
+
+httping
+dir
+
+appweb
+dir
+
+dhcp
+dir
+
+lighttpd
+dir
+
+bitchx
+dir
+
+freepops
+dir
+
+tmsnc
+dir
+
+tinyproxy
+dir
+
+openvpn
+dir
+
+aoetools
+dir
+
+sshfs
+dir
+
+hiawatha
+dir
+
+sslsniff
+dir
+
+znc
+dir
+
+bmon
+dir
+
+unfs3
+dir
+
+ntpclient
+dir
+
+netatalk
+dir
+
+dsl-qos-queue
+dir
+
+bitlbee
+dir
+
+mrtg
+dir
+
+batman-adv
+dir
+
+uftp
+dir
+
+crowdcontrol
+dir
+
+vnstat
+dir
+
+rssh
+dir
+
+vpzone
+dir
+
+restund
+dir
+
+l2tpd
+dir
+
+autossh
+dir
+
+oidentd
+dir
+
+stunnel
+dir
+
+htpdate
+dir
+
+openswan
+dir
+
+vgp
+dir
+
+vtun
+dir
+
+wprobe
+dir
+
+psybnc
+dir
+
+ntripcaster
+dir
+
+slurm
+dir
+
+tctool
+dir
+
+veth
+dir
+
+vpnc
+dir
+
+wiviz
+dir
+
+crda
+dir
+
+ulogd
+dir
+
+iptables-snmp
+dir
+
+cifs-utils
+dir
+
+nginx
+dir
+
+baresip
+dir
+
+kamailio
+dir
+
+sipsak
+dir
+
+wknock
+dir
+
+cbtt
+dir
+
+dansguardian
+dir
+
+asterisk-chan-sccp-b
+dir
+
+yate
+dir
+
+ekg
+dir
+
+rtpproxy
+dir
+
+e169-stats
+dir
+
+privoxy
+dir
+
+pen
+dir
+
+sshtunnel
+dir
+
+ntripserver
+dir
+
+pepsal
+dir
+
+elinks
+dir
+
+nocatauth
+dir
+
+qolyester
+dir
+
+ditg
+dir
+
+aircrack-ptw
+dir
+
+bridge-utils
+dir
+
 updatedd
 dir
 
-obfsproxy
-dir
-
-karma
-dir
-
-n2n
-dir
-
-chrony
+daemonlogger
 dir
 
 openl2tp
 dir
 
-freeswitch
+l7-protocols
+dir
+
+strongswan
+dir
+
+ntpd
+dir
+
+mac-to-devinfo
+dir
+
+rarpd
+dir
+
+keepalived
+dir
+
+amwall
 dir
 

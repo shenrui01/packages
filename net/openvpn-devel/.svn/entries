@@ -1,7 +1,7 @@
 10
 
 dir
-34305
+34325
 svn://svn.openwrt.org/openwrt/packages/net/openvpn-devel
 svn://svn.openwrt.org/openwrt
 
@@ -25,6 +25,40 @@ mirko
 
 
 3c298f89-4303-0410-b956-a3cf2f4a3e73
+
+files
+file
+
+
+
+
+2012-11-25T00:52:08.000000Z
+d39a0a023321b4f94c6559ca71eaf47d
+2010-07-31T22:33:26.681705Z
+22445
+florian
+has-props
+
+
+svn:special
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+16
 
 Config-nossl.in
 file
@@ -161,38 +195,4 @@ mirko
 
 
 5281
-
-files
-file
-
-
-
-
-2012-11-13T04:14:42.392188Z
-d39a0a023321b4f94c6559ca71eaf47d
-2010-07-31T22:33:26.681705Z
-22445
-florian
-has-props
-
-
-svn:special
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-16
 

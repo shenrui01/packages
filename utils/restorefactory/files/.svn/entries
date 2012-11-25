@@ -1,7 +1,7 @@
 10
 
 dir
-34305
+34325
 svn://svn.openwrt.org/openwrt/packages/utils/restorefactory/files
 svn://svn.openwrt.org/openwrt
 
@@ -25,40 +25,6 @@ nunojpg
 
 
 3c298f89-4303-0410-b956-a3cf2f4a3e73
-
-hotplug_restorefactory
-file
-
-
-
-
-2012-11-13T04:16:21.160200Z
-920e8900f4e5c3ab65bfefda72635543
-2010-12-19T01:17:57.267577Z
-24696
-nunojpg
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-856
 
 uci_defaults_restorefactory
 file
@@ -93,4 +59,38 @@ has-props
 
 
 243
+
+hotplug_restorefactory
+file
+
+
+
+
+2012-11-13T04:16:21.160200Z
+920e8900f4e5c3ab65bfefda72635543
+2010-12-19T01:17:57.267577Z
+24696
+nunojpg
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+856
 

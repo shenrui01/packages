@@ -1,7 +1,7 @@
 10
 
 dir
-34305
+34325
 svn://svn.openwrt.org/openwrt/packages/net/netatalk/files
 svn://svn.openwrt.org/openwrt
 
@@ -25,6 +25,40 @@ acinonyx
 
 
 3c298f89-4303-0410-b956-a3cf2f4a3e73
+
+AppleVolumes.default
+file
+
+
+
+
+2012-11-13T04:14:24.364204Z
+2cb2274aecb50ef957d0dd99be0101dc
+2010-03-28T13:21:56.171968Z
+20539
+florian
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+45
 
 afpd.init
 file
@@ -93,38 +127,4 @@ jow
 
 
 337
-
-AppleVolumes.default
-file
-
-
-
-
-2012-11-13T04:14:24.364204Z
-2cb2274aecb50ef957d0dd99be0101dc
-2010-03-28T13:21:56.171968Z
-20539
-florian
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-45
 

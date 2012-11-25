@@ -1,7 +1,7 @@
 10
 
 dir
-34305
+34325
 svn://svn.openwrt.org/openwrt/packages/net/xtables-addons/patches
 svn://svn.openwrt.org/openwrt
 
@@ -25,6 +25,74 @@ florian
 
 
 3c298f89-4303-0410-b956-a3cf2f4a3e73
+
+001-no_depmod.patch
+file
+
+
+
+
+2012-11-13T04:14:14.532204Z
+a6181179fc21396ed4bf10271171fbe6
+2012-01-04T00:30:53.320775Z
+29644
+jow
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+308
+
+002-fix-kernel-version-detection.patch
+file
+
+
+
+
+2012-11-13T04:14:14.532204Z
+7c83682112333be55fdae2793e182b85
+2012-04-13T21:37:01.172738Z
+31282
+jogo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+892
 
 100-add-rtsp-conntrack.patch
 file
@@ -161,72 +229,4 @@ florian
 
 
 527328
-
-001-no_depmod.patch
-file
-
-
-
-
-2012-11-13T04:14:14.532204Z
-a6181179fc21396ed4bf10271171fbe6
-2012-01-04T00:30:53.320775Z
-29644
-jow
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-308
-
-002-fix-kernel-version-detection.patch
-file
-
-
-
-
-2012-11-13T04:14:14.532204Z
-7c83682112333be55fdae2793e182b85
-2012-04-13T21:37:01.172738Z
-31282
-jogo
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-892
 

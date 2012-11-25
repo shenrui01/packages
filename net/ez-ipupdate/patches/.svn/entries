@@ -1,7 +1,7 @@
 10
 
 dir
-34305
+34325
 svn://svn.openwrt.org/openwrt/packages/net/ez-ipupdate/patches
 svn://svn.openwrt.org/openwrt
 
@@ -25,74 +25,6 @@ jow
 
 
 3c298f89-4303-0410-b956-a3cf2f4a3e73
-
-005-endian-detection.patch
-file
-
-
-
-
-2012-11-13T04:14:49.260203Z
-bf7aea11135067bdc8e3938bb9dce85b
-2012-11-02T12:01:33.268743Z
-34057
-jow
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-207
-
-003-dnsexit.patch
-file
-
-
-
-
-2012-11-13T04:14:49.256203Z
-22e47de03935ec44b8670ed475c09052
-2009-03-29T20:48:55.934000Z
-15073
-jow
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-6842
 
 004-zoneedit.patch
 file
@@ -195,4 +127,72 @@ has-props
 
 
 5143
+
+005-endian-detection.patch
+file
+
+
+
+
+2012-11-13T04:14:49.260203Z
+bf7aea11135067bdc8e3938bb9dce85b
+2012-11-02T12:01:33.268743Z
+34057
+jow
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+207
+
+003-dnsexit.patch
+file
+
+
+
+
+2012-11-13T04:14:49.256203Z
+22e47de03935ec44b8670ed475c09052
+2009-03-29T20:48:55.934000Z
+15073
+jow
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6842
 

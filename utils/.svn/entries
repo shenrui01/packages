@@ -1,7 +1,7 @@
 10
 
 dir
-34305
+34325
 svn://svn.openwrt.org/openwrt/packages/utils
 svn://svn.openwrt.org/openwrt
 
@@ -26,181 +26,55 @@ florian
 
 3c298f89-4303-0410-b956-a3cf2f4a3e73
 
-dosfstools
-dir
-
-msr-tools
-dir
-
-usb-modeswitch-data
-dir
-
-schedtools
-dir
-
-restorefactory
-dir
-
-sed
-dir
-
-upx
-dir
-
-joe
-dir
-
-crypto-tools
-dir
-
-sierra-pcmcia
-dir
-
-dstat
-dir
-
 loop-aes
 dir
 
-nvramtool
-dir
-
-lcdproc
-dir
-
-bluelog
-dir
-
-rsyncrypto
-dir
-
-pciutils
-dir
-
-ipmitool
-dir
-
-usb-modeswitch
-dir
-
-watchcat
-dir
-
-pps-tools
-dir
-
-gadgetfs-test
-dir
-
-ccid
-dir
-
-setpwc
-dir
-
-usbutils
-dir
-
-flashrom
-dir
-
-pcmciautils
-dir
-
-fancontroled
-dir
-
-event_test
-dir
-
-gnokii
-dir
-
-byobu
-dir
-
-ntfs-3g
+lcd4linux-tew673gru
 dir
 
 mtd-utils
 dir
 
-calvaria
-dir
-
 pcsc-lite
 dir
 
-bemused
+daemontools
 dir
 
-bash-completion
+bc
 dir
 
-pv
+wx200d
 dir
 
-unrar
+ipmitool
 dir
 
-cmdpad
+pciutils
 dir
 
-picocom
+time
 dir
 
-lirc
+watchcat
 dir
 
-minicom
+empty
 dir
 
-input-utils
+cdparanoia
 dir
 
-reiserfsprogs
+usbutils
 dir
 
-cwiid
+heyu
 dir
 
-wifitoggle
+flashrom
 dir
 
-ap51-flash
-dir
-
-mksh
-dir
-
-xdelta3
-dir
-
-at
-dir
-
-triggerhappy
-dir
-
-unzip
-dir
-
-devio
-dir
-
-open2300
-dir
-
-io
-dir
-
-bandwidthd
-dir
-
-freecwmp
-dir
-
-deco
+redboot-ar231x
 dir
 
 dmidecode
@@ -209,238 +83,355 @@ dir
 boxbackup
 dir
 
-dash
-dir
-
-powertop
-dir
-
-screen
-dir
-
-rng-tools
-dir
-
-bc
-dir
-
-ntfsprogs
-dir
-
-zoneinfo
-dir
-
-gnuplot
-dir
-
-vim
-dir
-
-rdiff-backup
-dir
-
-tesseract
-dir
-
-psmisc
-dir
-
-logrotate
-dir
-
-cdparanoia
-dir
-
-zip
-dir
-
-clish
-dir
-
-lsof
-dir
-
-ps3-utils
-dir
-
-goldfish-qemu
-dir
-
-huaweiaktbbo
-dir
-
-less
-dir
-
-lcd4linux
-dir
-
-hd-idle
-dir
-
-bluez-hcidump
-dir
-
-petitboot
-dir
-
-mgetty
-dir
-
-klish
-dir
-
-oww
-dir
-
-fxload
-dir
-
-owfs
-dir
-
-haserl
-dir
-
-pipacs
-dir
-
-acpid
-dir
-
-smartmontools
-dir
-
-lcd4linux-tew673gru
-dir
-
-mdadm
-dir
-
-cryptsetup
-dir
-
-kmemtrace-user
-dir
-
-daemontools
-dir
-
-shadow
-dir
-
-avrusbboot
-dir
-
-ssldump
-dir
-
-gpiotoggling
-dir
-
-nano
-dir
-
-bsdiff
-dir
-
-sane-backends
-dir
-
-lilo
-dir
-
-dialog
-dir
-
-devmem2
-dir
-
-wview
-dir
-
-calcurse
-dir
-
-coreutils
-dir
-
-gzip
-dir
-
-i2c-tools
-dir
-
-bash
-dir
-
-firmwarehotplug
-dir
-
-strace
-dir
-
-lrzsz
-dir
-
-bzip2
-dir
-
-rcs
-dir
-
-avrdude
-dir
-
-time
-dir
-
-fowsr
-dir
-
-bonnie++
-dir
-
-haveged
-dir
-
-dt
-dir
-
-taskwarrior
-dir
-
-microcom
-dir
-
-lmbench
-dir
-
-heyu
-dir
-
-sysstat
-dir
-
-alsa-utils
-dir
-
-bluez-utils
+remind
 dir
 
 lvm2
 dir
 
+pwgen
+dir
+
+gnupg
+dir
+
+cryptsetup
+dir
+
+calvaria
+dir
+
+dtach
+dir
+
+rng-tools
+dir
+
+ntfsprogs
+dir
+
+avrusbboot
+dir
+
+lcdproc
+dir
+
+rcs
+dir
+
+bluelog
+dir
+
+tesseract
+dir
+
+tmux
+dir
+
+logrotate
+dir
+
+ps3-utils
+dir
+
+zile
+dir
+
+lcd4linux
+dir
+
+open2300
+dir
+
+freecwmp
+dir
+
+taskwarrior
+dir
+
+petitboot
+dir
+
+restorefactory
+dir
+
+hplip
+dir
+
+cksfv
+dir
+
+powertop
+dir
+
+bluez-utils
+dir
+
+ntfs-3g
+dir
+
 ink
 dir
 
-stress
+bemused
+dir
+
+bash-completion
+dir
+
+zoneinfo
+dir
+
+picocom
+dir
+
+minicom
+dir
+
+dir300-flash
+dir
+
+usb-modeswitch
+dir
+
+dbus
+dir
+
+fortune-mod
+dir
+
+tcsh
+dir
+
+xdelta3
+dir
+
+setpwc
+dir
+
+dt
+dir
+
+coreutils
+dir
+
+i2c-tools
+dir
+
+alsa-utils
+dir
+
+sierra-pcmcia
+dir
+
+dstat
+dir
+
+gnokii
+dir
+
+tar
+dir
+
+gnuplot
+dir
+
+cmdpad
+dir
+
+gawk
+dir
+
+maemo-kexec
+dir
+
+mc
+dir
+
+calcurse
+dir
+
+gadgetfs-test
+dir
+
+lm-sensors
+dir
+
+mg
+dir
+
+hd-idle
+dir
+
+btrfs-progs
+dir
+
+crypto-tools
+dir
+
+screen
+dir
+
+byobu
+dir
+
+ssldump
+dir
+
+unrar
+dir
+
+reiserfsprogs
+dir
+
+psmisc
+dir
+
+devmem2
+dir
+
+cwiid
+dir
+
+bonnie++
+dir
+
+ccid
+dir
+
+usb-modeswitch-data
+dir
+
+unzip
+dir
+
+devio
+dir
+
+microcom
+dir
+
+mgetty
+dir
+
+sed
+dir
+
+upx
+dir
+
+fxload
+dir
+
+joe
+dir
+
+haserl
+dir
+
+fancontroled
+dir
+
+firmwarehotplug
+dir
+
+pipacs
+dir
+
+kmemtrace-user
+dir
+
+shadow
+dir
+
+macchanger
+dir
+
+lirc
+dir
+
+avrdude
+dir
+
+boblight
+dir
+
+sg3-utils
+dir
+
+setserial
+dir
+
+bsdiff
+dir
+
+rrdcollect
+dir
+
+dialog
+dir
+
+dosfstools
+dir
+
+clish
+dir
+
+mksh
+dir
+
+haveged
+dir
+
+anyremote
+dir
+
+goldfish-qemu
+dir
+
+triggerhappy
+dir
+
+memtester
+dir
+
+schedtools
+dir
+
+bluez-hcidump
+dir
+
+lmbench
+dir
+
+klish
+dir
+
+deco
+dir
+
+sysstat
+dir
+
+pcmciautils
+dir
+
+dash
+dir
+
+acpid
+dir
+
+strace
+dir
+
+smartmontools
+dir
+
+mdadm
 dir
 
 md5deep
-dir
-
-sdparm
 dir
 
 scponly
@@ -452,34 +443,115 @@ dir
 testusb
 dir
 
-boblight
+collectd
 dir
 
-tmux
+dfu-util
 dir
 
-empty
+rsyncrypto
 dir
 
-fortune-mod
+disktype
 dir
 
-mc
+rdiff-backup
+dir
+
+input-utils
+dir
+
+sane-backends
+dir
+
+sispmctl
+dir
+
+msr-tools
+dir
+
+wview
+dir
+
+digitemp
+dir
+
+lsof
+dir
+
+huaweiaktbbo
+dir
+
+less
+dir
+
+wattsup
+dir
+
+owfs
+dir
+
+event_test
+dir
+
+nvramtool
+dir
+
+stress
+dir
+
+lrzsz
+dir
+
+pv
+dir
+
+rrdtool
+dir
+
+bzip2
+dir
+
+sdparm
+dir
+
+cpusage
+dir
+
+gpiotoggling
+dir
+
+nano
+dir
+
+vim
+dir
+
+lilo
+dir
+
+fowsr
+dir
+
+pps-tools
+dir
+
+wifitoggle
 dir
 
 tcpser
 dir
 
-lm-sensors
+ap51-flash
+dir
+
+zip
 dir
 
 foxboard-utils
 dir
 
-mg
-dir
-
-zile
+at
 dir
 
 ccrypt
@@ -488,99 +560,27 @@ dir
 procps
 dir
 
-wattsup
+io
 dir
 
-hdparm
-dir
-
-pwgen
-dir
-
-gnupg
-dir
-
-dtach
-dir
-
-wx200d
-dir
-
-rrdtool
-dir
-
-tar
-dir
-
-cpusage
-dir
-
-collectd
-dir
-
-dfu-util
-dir
-
-sg3-utils
-dir
-
-maemo-kexec
-dir
-
-setserial
-dir
-
-disktype
-dir
-
-dir300-flash
-dir
-
-dbus
-dir
-
-sispmctl
-dir
-
-tcsh
-dir
-
-digitemp
-dir
-
-anyremote
-dir
-
-memtester
+bandwidthd
 dir
 
 pwcrypt
 dir
 
-btrfs-progs
+gzip
 dir
 
 psplash
 dir
 
-hplip
+hdparm
 dir
 
-cksfv
+oww
 dir
 
-redboot-ar231x
-dir
-
-remind
-dir
-
-macchanger
-dir
-
-gawk
-dir
-
-rrdcollect
+bash
 dir
 

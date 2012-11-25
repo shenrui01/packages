@@ -1,7 +1,7 @@
 10
 
 dir
-34305
+34325
 svn://svn.openwrt.org/openwrt/packages/net/snort-wireless/patches
 svn://svn.openwrt.org/openwrt
 
@@ -25,40 +25,6 @@ nico
 
 
 3c298f89-4303-0410-b956-a3cf2f4a3e73
-
-750-lightweight-config.patch
-file
-
-
-
-
-2012-11-13T04:14:23.716197Z
-9159b74c3446cd861c8015e59424dac2
-2009-04-17T15:22:00.575847Z
-15247
-nico
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-5937
 
 500-no-config-search.patch
 file
@@ -93,4 +59,38 @@ has-props
 
 
 943
+
+750-lightweight-config.patch
+file
+
+
+
+
+2012-11-13T04:14:23.716197Z
+9159b74c3446cd861c8015e59424dac2
+2009-04-17T15:22:00.575847Z
+15247
+nico
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5937
 

@@ -1,7 +1,7 @@
 10
 
 dir
-34305
+34325
 svn://svn.openwrt.org/openwrt/packages/net/chillispot/patches
 svn://svn.openwrt.org/openwrt
 
@@ -25,74 +25,6 @@ jow
 
 
 3c298f89-4303-0410-b956-a3cf2f4a3e73
-
-110-macallowed_fix.patch
-file
-
-
-
-
-2012-11-13T04:15:08.152202Z
-aef17e4a5b96786a175d87c9e0e24a98
-2008-12-11T11:31:23.817221Z
-13592
-florian
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-820
-
-102-less_memory-footprint.patch
-file
-
-
-
-
-2012-11-13T04:15:08.152202Z
-80d9fe3248dcf16f6cd2f6b607db228c
-2007-07-03T00:53:27.437485Z
-7859
-epilog
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-768
 
 200-gcc_fix.patch
 file
@@ -229,4 +161,72 @@ nbd
 
 
 266
+
+110-macallowed_fix.patch
+file
+
+
+
+
+2012-11-13T04:15:08.152202Z
+aef17e4a5b96786a175d87c9e0e24a98
+2008-12-11T11:31:23.817221Z
+13592
+florian
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+820
+
+102-less_memory-footprint.patch
+file
+
+
+
+
+2012-11-13T04:15:08.152202Z
+80d9fe3248dcf16f6cd2f6b607db228c
+2007-07-03T00:53:27.437485Z
+7859
+epilog
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+768
 

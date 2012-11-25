@@ -1,7 +1,7 @@
 10
 
 dir
-34305
+34325
 svn://svn.openwrt.org/openwrt/packages/lang/php4/patches
 svn://svn.openwrt.org/openwrt
 
@@ -25,74 +25,6 @@ jow
 
 
 3c298f89-4303-0410-b956-a3cf2f4a3e73
-
-110-openssl-1.0.0-compat.patch
-file
-
-
-
-
-2012-11-13T04:16:28.620199Z
-367864f33953a8e2c9bdf7e05394f326
-2011-02-21T19:44:17.531985Z
-25651
-jow
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2434
-
-002-configure.patch
-file
-
-
-
-
-2012-11-13T04:16:28.620199Z
-30602aadc5c7dda3b980f4b0eef2a713
-2010-12-22T01:50:46.003552Z
-24773
-hauke
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3339
 
 004-uts_domainname.patch
 file
@@ -195,4 +127,72 @@ hauke
 
 
 491
+
+110-openssl-1.0.0-compat.patch
+file
+
+
+
+
+2012-11-13T04:16:28.620199Z
+367864f33953a8e2c9bdf7e05394f326
+2011-02-21T19:44:17.531985Z
+25651
+jow
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2434
+
+002-configure.patch
+file
+
+
+
+
+2012-11-13T04:16:28.620199Z
+30602aadc5c7dda3b980f4b0eef2a713
+2010-12-22T01:50:46.003552Z
+24773
+hauke
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3339
 

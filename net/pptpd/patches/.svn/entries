@@ -1,7 +1,7 @@
 10
 
 dir
-34305
+34325
 svn://svn.openwrt.org/openwrt/packages/net/pptpd/patches
 svn://svn.openwrt.org/openwrt
 
@@ -25,6 +25,40 @@ jow
 
 
 3c298f89-4303-0410-b956-a3cf2f4a3e73
+
+002-makefile_fix.patch
+file
+
+
+
+
+2012-11-13T04:15:00.840202Z
+ec5de8df2a542b9df477595e65973ed9
+2010-01-23T22:18:19.032364Z
+19301
+jow
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+367
 
 001-bad_pqueue_debug.patch
 file
@@ -93,38 +127,4 @@ has-props
 
 
 453
-
-002-makefile_fix.patch
-file
-
-
-
-
-2012-11-13T04:15:00.840202Z
-ec5de8df2a542b9df477595e65973ed9
-2010-01-23T22:18:19.032364Z
-19301
-jow
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-367
 

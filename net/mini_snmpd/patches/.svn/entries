@@ -1,7 +1,7 @@
 10
 
 dir
-34305
+34325
 svn://svn.openwrt.org/openwrt/packages/net/mini_snmpd/patches
 svn://svn.openwrt.org/openwrt
 
@@ -25,74 +25,6 @@ nico
 
 
 3c298f89-4303-0410-b956-a3cf2f4a3e73
-
-101-opt_flags.patch
-file
-
-
-
-
-2012-11-13T04:14:26.300204Z
-321feec841464368de072d913e6aee04
-2010-11-01T15:52:43.404995Z
-23765
-acoul
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-454
-
-102-mib_fix_uninitialized_memory.patch
-file
-
-
-
-
-2012-11-13T04:14:26.300204Z
-6d7aa4bbfdad6b99eb08c40c822196ce
-2011-10-03T09:22:46.754160Z
-28358
-jow
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1516
 
 100-dualstack.patch
 file
@@ -161,4 +93,72 @@ jow
 
 
 696
+
+101-opt_flags.patch
+file
+
+
+
+
+2012-11-13T04:14:26.300204Z
+321feec841464368de072d913e6aee04
+2010-11-01T15:52:43.404995Z
+23765
+acoul
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+454
+
+102-mib_fix_uninitialized_memory.patch
+file
+
+
+
+
+2012-11-13T04:14:26.300204Z
+6d7aa4bbfdad6b99eb08c40c822196ce
+2011-10-03T09:22:46.754160Z
+28358
+jow
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1516
 

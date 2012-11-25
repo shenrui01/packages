@@ -1,7 +1,7 @@
 10
 
 dir
-34305
+34325
 svn://svn.openwrt.org/openwrt/packages/utils/collectd/patches
 svn://svn.openwrt.org/openwrt
 
@@ -25,40 +25,6 @@ jow
 
 
 3c298f89-4303-0410-b956-a3cf2f4a3e73
-
-110-net-device-stats.patch
-file
-
-
-
-
-2012-11-13T04:16:13.392200Z
-f449f22c087acd4b4faaf16a2236583a
-2010-12-04T04:29:09.052190Z
-24237
-acoul
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1366
 
 100-rrdtool-add-rrasingle-option.patch
 file
@@ -331,4 +297,38 @@ blogic
 
 
 1619
+
+110-net-device-stats.patch
+file
+
+
+
+
+2012-11-13T04:16:13.392200Z
+f449f22c087acd4b4faaf16a2236583a
+2010-12-04T04:29:09.052190Z
+24237
+acoul
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1366
 

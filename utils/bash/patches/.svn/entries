@@ -1,7 +1,7 @@
 10
 
 dir
-34305
+34325
 svn://svn.openwrt.org/openwrt/packages/utils/bash/patches
 svn://svn.openwrt.org/openwrt
 
@@ -25,176 +25,6 @@ florian
 
 
 3c298f89-4303-0410-b956-a3cf2f4a3e73
-
-110-upstream-bash42-010.patch
-file
-
-
-
-
-2012-11-13T04:16:07.896200Z
-cf2abed0b721db57dfa47668f8a5c2a0
-2012-05-16T01:36:48.983691Z
-31746
-jow
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1687
-
-101-upstream-bash42-001.patch
-file
-
-
-
-
-2012-11-13T04:16:07.896200Z
-d3c11bcfa71ebba526248186f08a789a
-2012-05-16T01:36:48.983691Z
-31746
-jow
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2552
-
-111-upstream-bash42-011.patch
-file
-
-
-
-
-2012-11-13T04:16:07.880200Z
-060b492c4b345df862844caecb3ad554
-2012-05-16T01:36:48.983691Z
-31746
-jow
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1262
-
-102-upstream-bash42-002.patch
-file
-
-
-
-
-2012-11-13T04:16:07.880200Z
-578a80f2f3a4d650f1599d036dfc45aa
-2012-05-16T01:36:48.983691Z
-31746
-jow
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1484
-
-120-upstream-bash42-020.patch
-file
-
-
-
-
-2012-11-13T04:16:07.880200Z
-6856259e785ef7f2e8dbd117c7a63672
-2012-05-16T01:36:48.983691Z
-31746
-jow
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1367
 
 121-upstream-bash42-021.patch
 file
@@ -502,14 +332,14 @@ jow
 
 1115
 
-124-upstream-bash42-024.patch
+106-upstream-bash42-006.patch
 file
 
 
 
 
 2012-11-13T04:16:07.884200Z
-02cf70490b9037ac3429fe3deed0cac8
+8820922223b771c48f2efb9e8d50f389
 2012-05-16T01:36:48.983691Z
 31746
 jow
@@ -534,41 +364,7 @@ jow
 
 
 
-1153
-
-115-upstream-bash42-015.patch
-file
-
-
-
-
-2012-11-13T04:16:07.884200Z
-2ae2c9a37f90efbffedda210cc32bb5c
-2012-05-16T01:36:48.983691Z
-31746
-jow
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1668
+923
 
 002-force-internal-readline.patch
 file
@@ -604,14 +400,14 @@ jow
 
 685
 
-106-upstream-bash42-006.patch
+115-upstream-bash42-015.patch
 file
 
 
 
 
 2012-11-13T04:16:07.884200Z
-8820922223b771c48f2efb9e8d50f389
+2ae2c9a37f90efbffedda210cc32bb5c
 2012-05-16T01:36:48.983691Z
 31746
 jow
@@ -636,16 +432,16 @@ jow
 
 
 
-923
+1668
 
-107-upstream-bash42-007.patch
+124-upstream-bash42-024.patch
 file
 
 
 
 
 2012-11-13T04:16:07.884200Z
-c877894f0f2d398f820b643530352358
+02cf70490b9037ac3429fe3deed0cac8
 2012-05-16T01:36:48.983691Z
 31746
 jow
@@ -670,41 +466,7 @@ jow
 
 
 
-1170
-
-125-upstream-bash42-025.patch
-file
-
-
-
-
-2012-11-13T04:16:07.884200Z
-764ca3a927e705861d84fadebf99d60c
-2012-05-16T01:36:48.983691Z
-31746
-jow
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3416
+1153
 
 116-upstream-bash42-016.patch
 file
@@ -740,14 +502,14 @@ jow
 
 1119
 
-108-upstream-bash42-008.patch
+125-upstream-bash42-025.patch
 file
 
 
 
 
 2012-11-13T04:16:07.884200Z
-05b8e3b4c32b8e51f3cc79a9dd99315d
+764ca3a927e705861d84fadebf99d60c
 2012-05-16T01:36:48.983691Z
 31746
 jow
@@ -772,16 +534,16 @@ jow
 
 
 
-1887
+3416
 
-117-upstream-bash42-017.patch
+107-upstream-bash42-007.patch
 file
 
 
 
 
 2012-11-13T04:16:07.884200Z
-161e49d9b8cc007e148dc492bd12fd4c
+c877894f0f2d398f820b643530352358
 2012-05-16T01:36:48.983691Z
 31746
 jow
@@ -806,7 +568,7 @@ jow
 
 
 
-1236
+1170
 
 126-upstream-bash42-026.patch
 file
@@ -842,14 +604,14 @@ jow
 
 1272
 
-127-upstream-bash42-027.patch
+117-upstream-bash42-017.patch
 file
 
 
 
 
 2012-11-13T04:16:07.884200Z
-f5a6735eb8386e2db7349ec1e12a7897
+161e49d9b8cc007e148dc492bd12fd4c
 2012-05-16T01:36:48.983691Z
 31746
 jow
@@ -874,16 +636,16 @@ jow
 
 
 
-1340
+1236
 
-118-upstream-bash42-018.patch
+108-upstream-bash42-008.patch
 file
 
 
 
 
-2012-11-13T04:16:07.896200Z
-c3c6ab5e8aa71ba74a93fb58d56e775d
+2012-11-13T04:16:07.884200Z
+05b8e3b4c32b8e51f3cc79a9dd99315d
 2012-05-16T01:36:48.983691Z
 31746
 jow
@@ -908,7 +670,7 @@ jow
 
 
 
-1530
+1887
 
 109-upstream-bash42-009.patch
 file
@@ -944,14 +706,14 @@ jow
 
 1979
 
-119-upstream-bash42-019.patch
+118-upstream-bash42-018.patch
 file
 
 
 
 
 2012-11-13T04:16:07.896200Z
-50592b61cf0c67cf0498fa38889418c7
+c3c6ab5e8aa71ba74a93fb58d56e775d
 2012-05-16T01:36:48.983691Z
 31746
 jow
@@ -976,7 +738,41 @@ jow
 
 
 
-1240
+1530
+
+127-upstream-bash42-027.patch
+file
+
+
+
+
+2012-11-13T04:16:07.884200Z
+f5a6735eb8386e2db7349ec1e12a7897
+2012-05-16T01:36:48.983691Z
+31746
+jow
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1340
 
 128-upstream-bash42-028.patch
 file
@@ -1012,17 +808,17 @@ jow
 
 1738
 
-129-no_doc.patch
+119-upstream-bash42-019.patch
 file
 
 
 
 
 2012-11-13T04:16:07.896200Z
-a99e87664fc8226c73dfb6a312ecb5e4
-2012-07-30T15:40:19.972061Z
-32919
-florian
+50592b61cf0c67cf0498fa38889418c7
+2012-05-16T01:36:48.983691Z
+31746
+jow
 
 
 
@@ -1044,7 +840,7 @@ florian
 
 
 
-427
+1240
 
 001-compile-fix.patch
 file
@@ -1079,4 +875,208 @@ jow
 
 
 619
+
+129-no_doc.patch
+file
+
+
+
+
+2012-11-13T04:16:07.896200Z
+a99e87664fc8226c73dfb6a312ecb5e4
+2012-07-30T15:40:19.972061Z
+32919
+florian
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+427
+
+110-upstream-bash42-010.patch
+file
+
+
+
+
+2012-11-13T04:16:07.896200Z
+cf2abed0b721db57dfa47668f8a5c2a0
+2012-05-16T01:36:48.983691Z
+31746
+jow
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1687
+
+101-upstream-bash42-001.patch
+file
+
+
+
+
+2012-11-13T04:16:07.896200Z
+d3c11bcfa71ebba526248186f08a789a
+2012-05-16T01:36:48.983691Z
+31746
+jow
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2552
+
+111-upstream-bash42-011.patch
+file
+
+
+
+
+2012-11-13T04:16:07.880200Z
+060b492c4b345df862844caecb3ad554
+2012-05-16T01:36:48.983691Z
+31746
+jow
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1262
+
+102-upstream-bash42-002.patch
+file
+
+
+
+
+2012-11-13T04:16:07.880200Z
+578a80f2f3a4d650f1599d036dfc45aa
+2012-05-16T01:36:48.983691Z
+31746
+jow
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1484
+
+120-upstream-bash42-020.patch
+file
+
+
+
+
+2012-11-13T04:16:07.880200Z
+6856259e785ef7f2e8dbd117c7a63672
+2012-05-16T01:36:48.983691Z
+31746
+jow
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1367
 

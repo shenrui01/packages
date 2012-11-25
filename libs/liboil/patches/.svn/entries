@@ -1,7 +1,7 @@
 10
 
 dir
-34305
+34325
 svn://svn.openwrt.org/openwrt/packages/libs/liboil/patches
 svn://svn.openwrt.org/openwrt
 
@@ -25,40 +25,6 @@ jow
 
 
 3c298f89-4303-0410-b956-a3cf2f4a3e73
-
-001-no-tools-docs-examples.patch
-file
-
-
-
-
-2012-11-13T04:15:24.024201Z
-4b72bfec052150e046922fb87c08fa3f
-2010-12-15T02:09:51.373611Z
-24576
-jow
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-617
 
 002-pkgconfig.patch
 file
@@ -93,4 +59,38 @@ nico
 
 
 482
+
+001-no-tools-docs-examples.patch
+file
+
+
+
+
+2012-11-13T04:15:24.024201Z
+4b72bfec052150e046922fb87c08fa3f
+2010-12-15T02:09:51.373611Z
+24576
+jow
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+617
 
