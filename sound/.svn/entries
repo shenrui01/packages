@@ -1,7 +1,7 @@
 10
 
 dir
-34325
+34384
 svn://svn.openwrt.org/openwrt/packages/sound
 svn://svn.openwrt.org/openwrt
 
@@ -38,10 +38,10 @@ dir
 listener
 dir
 
-madplay
+mt-daapd
 dir
 
-mt-daapd
+madplay
 dir
 
 empcd
@@ -62,10 +62,10 @@ dir
 scmpc
 dir
 
-shell-fm
+cmus
 dir
 
-cmus
+shell-fm
 dir
 
 sox

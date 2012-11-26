@@ -1,7 +1,7 @@
 10
 
 dir
-34325
+34384
 svn://svn.openwrt.org/openwrt/packages/net
 svn://svn.openwrt.org/openwrt
 
@@ -29,19 +29,19 @@ jogo
 l2tpv3tun
 dir
 
-ser2net
+yafc
 dir
 
-yafc
+ser2net
 dir
 
 linuxigd
 dir
 
-remotefs
+net-tools
 dir
 
-net-tools
+remotefs
 dir
 
 nprobe
@@ -56,10 +56,10 @@ dir
 karma
 dir
 
-rp-l2tp
+opensips
 dir
 
-opensips
+rp-l2tp
 dir
 
 smcroute
@@ -134,46 +134,46 @@ dir
 smap
 dir
 
-mutella
+amule
 dir
 
 uhub
 dir
 
-amule
+mutella
 dir
 
 tor
 dir
 
-flow-tools
+lftp
 dir
 
 lispmob
 dir
 
-lftp
+flow-tools
 dir
 
 peerguardian
 dir
 
-madwimax
+ucspi-tcp
 dir
 
-ucspi-tcp
+madwimax
 dir
 
 siit
 dir
 
-ucarp
+xsupplicant
 dir
 
 ncftp
 dir
 
-xsupplicant
+ucarp
 dir
 
 smtptrapd
@@ -197,10 +197,10 @@ dir
 openrrcp
 dir
 
-nmap
+vpnc-scripts
 dir
 
-vpnc-scripts
+nmap
 dir
 
 nstx
@@ -209,10 +209,10 @@ dir
 reaim
 dir
 
-rsync
+igmpproxy
 dir
 
-igmpproxy
+rsync
 dir
 
 subversion
@@ -413,16 +413,16 @@ dir
 gpsd
 dir
 
-mdk3
-dir
-
 fakeidentd
 dir
 
-horst
+mdk3
 dir
 
 mini_httpd
+dir
+
+horst
 dir
 
 chrony
@@ -431,16 +431,16 @@ dir
 wget
 dir
 
-ptpd
-dir
-
 dhcp-forwarder
 dir
 
-dsniff
+ptpd
 dir
 
 vnc-reflector
+dir
+
+dsniff
 dir
 
 nuttcp
@@ -449,10 +449,10 @@ dir
 chaosvpn
 dir
 
-reaver
+tcptraceroute
 dir
 
-tcptraceroute
+reaver
 dir
 
 nzbgetweb
@@ -464,10 +464,10 @@ dir
 n2n
 dir
 
-miniupnpc
+polipo
 dir
 
-polipo
+miniupnpc
 dir
 
 miniupnpd
@@ -479,10 +479,10 @@ dir
 memcached
 dir
 
-kamailio3
+coova-chilli
 dir
 
-coova-chilli
+kamailio3
 dir
 
 ngrep
@@ -494,16 +494,16 @@ dir
 vncrepeater
 dir
 
-nocatsplash
-dir
-
 peervpn
 dir
 
-bird
+nocatsplash
 dir
 
 madwifi
+dir
+
+bird
 dir
 
 fprobe-ulog
@@ -515,10 +515,10 @@ dir
 mgen
 dir
 
-openntpd
+ssltunnel
 dir
 
-ssltunnel
+openntpd
 dir
 
 scanlogd
@@ -533,10 +533,10 @@ dir
 miax
 dir
 
-natpmp
+shat
 dir
 
-shat
+natpmp
 dir
 
 wol
@@ -545,28 +545,28 @@ dir
 rp-pppoe
 dir
 
-quicktun
+udpcast
 dir
 
 nbd
 dir
 
-udpcast
-dir
-
-snort
-dir
-
-knock
+quicktun
 dir
 
 imspector
 dir
 
-ngircd
+knock
+dir
+
+snort
 dir
 
 hsflowd
+dir
+
+ngircd
 dir
 
 opendchub
@@ -587,31 +587,31 @@ dir
 nufw
 dir
 
-aodv-uu
+weechat
 dir
 
-weechat
+aodv-uu
 dir
 
 aircrack-ng
 dir
 
-lft
-dir
-
 synce-dccm
 dir
 
-hping3
+lft
 dir
 
 wifidog
 dir
 
-transmission
+hping3
 dir
 
 portsentry
+dir
+
+transmission
 dir
 
 matrixtunnel
@@ -626,13 +626,13 @@ dir
 snort-wireless
 dir
 
-wrt-radauth
+batman
 dir
 
 mtr
 dir
 
-batman
+wrt-radauth
 dir
 
 fping
@@ -647,16 +647,16 @@ dir
 vsftpd
 dir
 
-iodine
-dir
-
 softflowd
 dir
 
-sslh
+iodine
 dir
 
 wshaper
+dir
+
+sslh
 dir
 
 unbound
@@ -671,10 +671,10 @@ dir
 netio
 dir
 
-gesftpserver
+openssh
 dir
 
-openssh
+gesftpserver
 dir
 
 apache
@@ -683,10 +683,10 @@ dir
 olsrd
 dir
 
-netdiscover
+dmapd
 dir
 
-dmapd
+netdiscover
 dir
 
 pptpd
@@ -698,10 +698,10 @@ dir
 tinc
 dir
 
-live
+prosody
 dir
 
-prosody
+live
 dir
 
 ctorrent
@@ -725,28 +725,28 @@ dir
 uucp
 dir
 
-uob-nomad
-dir
-
 bahamut
 dir
 
-parprouted
-dir
-
-rinetd
-dir
-
-pcapsipdump
+uob-nomad
 dir
 
 gatling
 dir
 
-bwping
+pcapsipdump
+dir
+
+rinetd
+dir
+
+parprouted
 dir
 
 shorewall-core
+dir
+
+bwping
 dir
 
 sslcat
@@ -755,10 +755,10 @@ dir
 mvprelay
 dir
 
-multiwan
+airpwn
 dir
 
-airpwn
+multiwan
 dir
 
 udp-broadcast-relay
@@ -785,10 +785,10 @@ dir
 tig
 dir
 
-ptunnel
+maradns
 dir
 
-maradns
+ptunnel
 dir
 
 pyload

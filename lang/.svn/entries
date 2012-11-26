@@ -1,7 +1,7 @@
 10
 
 dir
-34325
+34384
 svn://svn.openwrt.org/openwrt/packages/lang
 svn://svn.openwrt.org/openwrt
 
@@ -26,10 +26,10 @@ swalker
 
 3c298f89-4303-0410-b956-a3cf2f4a3e73
 
-ruby
+python
 dir
 
-python
+ruby
 dir
 
 logilab-astng
@@ -47,25 +47,25 @@ dir
 pybluez
 dir
 
-pyxdg
+python-pydaemon
 dir
 
-python-pydaemon
+pyxdg
 dir
 
 perl-html-parser
 dir
 
-python-crypto
-dir
-
-php-pear-db
+perl-uri
 dir
 
 4th
 dir
 
-perl-uri
+php-pear-db
+dir
+
+python-crypto
 dir
 
 lsqlite3
@@ -125,43 +125,43 @@ dir
 perl-dbi
 dir
 
-python-mimms
-dir
-
 perl-html-tree
 dir
 
-pyusb
+python-mimms
 dir
 
 perl
 dir
 
-python-sip
+pyusb
 dir
 
-python-dbus
+python-sip
 dir
 
 luasec
 dir
 
-perl-lockfile-simple
-dir
-
-arm
+python-dbus
 dir
 
 perl-compress-bzip2
 dir
 
-perl-www
+arm
+dir
+
+perl-lockfile-simple
+dir
+
+psycopg
 dir
 
 python-curl
 dir
 
-psycopg
+perl-www
 dir
 
 luafilesystem
@@ -182,22 +182,22 @@ dir
 pyrrd
 dir
 
-python-eeml
+luasql
 dir
 
 urbi
 dir
 
-luasql
+python-eeml
 dir
 
 python-ifconfig
 dir
 
-luaposix
+cython
 dir
 
-cython
+luaposix
 dir
 
 python-webpy
